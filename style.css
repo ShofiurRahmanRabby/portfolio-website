@@ -90,8 +90,17 @@ nav  a{
     max-width: 500px;
 }
 /* main section styles */
-
-
+.main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.abut-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
 
 
 /* about scection styles */
