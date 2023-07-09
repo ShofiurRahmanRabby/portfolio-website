@@ -1,5 +1,6 @@
 /* common shared styles */
 body{
+    font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
 .text-primary{
@@ -100,6 +101,9 @@ nav  a{
 }
 .about-info{
     text-align: center;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
 
 
